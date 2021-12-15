@@ -6,7 +6,7 @@ O dtmoney é uma aplicação web para controle de finanças pessoais.
 
 ## Tecnologias utilizadas
 
-- React;
+- ReactJS;
 - Axios;
 - MirageJS;
 - Polished;
